@@ -1,0 +1,19 @@
+{
+    "code":1,
+    "msg":"数据列表",
+    "page":1,
+    "pagecount":4036,
+    "limit":"20",
+    "total":80716,
+    "list":[
+        {
+            "vod_id":"CCTV",
+            "vod_name":"CCTV",
+            "vod_remarks":"CCTV直播",
+            "vod_play_from":"移动线路,联通线路",
+            "vod_pic":"https://mirror.ghproxy.com/raw.githubusercontent.com/smallgirl/ibox/main/cctv.jpg",
+            "vod_play_url":"移动直播CCTV1$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#移动直播CCTV2$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#移动直播CCTV3$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#移动直播CCTV4$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#移动直播CCTV5$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#移动直播CCTV6$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#移动直播CCTV7$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#移动直播CCTV8$http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#$$$联通直播CCTV1$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#联通直播CCTV2$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#联通直播CCTV3$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8#联通直播CCTV4$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8#联通直播CCTV5$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8#联通直播CCTV6$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8#联通直播CCTV7$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8#联通直播CCTV8$http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8"
+        }
+    ]
+}
+
